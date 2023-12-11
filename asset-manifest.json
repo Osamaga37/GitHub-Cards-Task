@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GitHub-Cards-Task/static/css/main.48e04870.css",
+    "main.js": "/GitHub-Cards-Task/static/js/main.1392b42f.js",
+    "static/js/787.ac50f92f.chunk.js": "/GitHub-Cards-Task/static/js/787.ac50f92f.chunk.js",
+    "index.html": "/GitHub-Cards-Task/index.html",
+    "main.48e04870.css.map": "/GitHub-Cards-Task/static/css/main.48e04870.css.map",
+    "main.1392b42f.js.map": "/GitHub-Cards-Task/static/js/main.1392b42f.js.map",
+    "787.ac50f92f.chunk.js.map": "/GitHub-Cards-Task/static/js/787.ac50f92f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48e04870.css",
+    "static/js/main.1392b42f.js"
+  ]
+}
